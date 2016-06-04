@@ -1,0 +1,25 @@
+KMidiLevelMeter
+Copyright © 2000 KISAKA Toshihiro.
+noah@gopherwood.com
+
+
+2000-05-16
+ポート撰択ポップアップメニューとかを他の小物と共通に。以前のだと、 KMidiPlay で "Publish to the World" を on/off すると、 KMidiLevelMeter のポップアップメニューに KMidiPlay が出なくなっちゃってましたが、今回は大丈夫のはず。
+
+2000-05-08
+ちょっと変更したけど、相変わらず CPU time 喰いまくり。
+
+2000-04-28
+PatchBay 無しでポートを選択できるようにしてみる。 KMidiPlay から copy & paste してちょっと変更しただけ。
+
+	MIDI まみれ BeOS の図
+	<URL:http://www.gopherwood.com/staff/noah/memo/20000428.jpeg>
+
+2000-04-25
+思いつきで作成
+
+
+KT
+--
+KISAKA Toshihiro  -==-  BeOS Developer ID: #2214
+Kanagawa, Japan  -==-  http://www.gopherwood.com
